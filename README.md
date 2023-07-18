@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This is simple MCQ question app. 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
